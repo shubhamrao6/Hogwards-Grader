@@ -8,6 +8,6 @@ This python script takes in a text file which contains student details and his/h
 
 And then produces a graded file of the student's performannce:
 
-## graded_list 2
+### graded_list 2
 
 ![](/Screenshot_2.jpg)
